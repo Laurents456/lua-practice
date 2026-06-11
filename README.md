@@ -8,7 +8,7 @@
 
 <br>
 
-> *small scripts, clean logic, steady progress* 🌙
+> *lua keren, aku sayang lua, aku sayang kamu*
 
 </div>
 
